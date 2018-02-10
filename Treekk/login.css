@@ -1,0 +1,36 @@
+.login {
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 0%;
+}
+body {
+	font-family: Lato;
+	background-color: lightgrey;
+}
+.formLogin {
+	padding-top: 4%;
+	padding-left: 15%;
+	padding-right: 15%; 
+}
+.noaccount {
+	color: black;
+	
+}
+h1 {
+	border-bottom: 1px solid #A0A0A0;
+	border-width: 400;
+	padding-bottom: 20px;
+	margin-top: auto;
+}
+.btn-block {
+	width: 30%;
+	margin: auto;	
+}
+.btn-primary {
+	color: white;
+	background-color: #017cff;
+	border-color: #0062cc;
+
+}
+
+
